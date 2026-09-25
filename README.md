@@ -84,6 +84,7 @@ The system receives a support ticket and automatically:
                          │ RL Update       │
                          └─────────────────┘
 ````
+<img width="951" height="476" alt="image" src="https://github.com/user-attachments/assets/8a85d051-4299-48dd-b995-5b80b706b38e" />
 
 ---
 
@@ -312,6 +313,7 @@ Creates and processes a support ticket.
   "tier": "premium"
 }
 ```
+<img width="902" height="416" alt="image" src="https://github.com/user-attachments/assets/a9aba649-50ae-43a9-8647-c7a752cfd594" />
 
 ### Response
 
@@ -328,6 +330,10 @@ The response contains:
 * final response
 * selected pipeline configuration
 * latency
+---
+<img width="878" height="404" alt="image" src="https://github.com/user-attachments/assets/06262101-6716-4a0d-a681-d9a62803928a" />
+
+<img width="887" height="448" alt="image" src="https://github.com/user-attachments/assets/7060c811-3d19-462f-86e7-d3d7cf6a0c57" />
 
 Example structure:
 
@@ -369,7 +375,8 @@ Where:
 ```text
 1 = positive feedback
 0 = negative feedback
-```
+`<img width="928" height="377" alt="image" src="https://github.com/user-attachments/assets/466ec427-5f66-44a7-b5c7-f864d5ed0d63" />
+``
 
 ### Reward
 
@@ -397,6 +404,8 @@ bandit
 rag
 agent
 response
+<img width="886" height="451" alt="image" src="https://github.com/user-attachments/assets/ebacf942-bc78-4912-b5dd-d51daa3d91b5" />
+
 ```
 
 Each stage maintains its status and output in SQLite.
