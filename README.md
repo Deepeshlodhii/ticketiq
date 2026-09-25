@@ -1,14 +1,3 @@
-Absolutely bro. 🔥 Since the implementation is already done and **21/21 tests pass**, let's keep the README professional but not overcomplicated.
-
-Open/create:
-
-```text
-README.md
-```
-
-Replace everything with this:
-
-````markdown
 # TicketIQ — Self-Optimizing Support Triage Agent
 
 TicketIQ is a backend B2B SaaS support-ticket triage system that combines classical ML, sentiment analysis, RAG, LLM-based reasoning, workflow orchestration, and contextual bandit reinforcement learning.
