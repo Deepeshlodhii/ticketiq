@@ -369,14 +369,15 @@ Updates the contextual bandit using binary feedback.
   "feedback": 1
 }
 ```
+<img width="958" height="447" alt="image" src="https://github.com/user-attachments/assets/65777c68-9241-4d23-b811-dd303ec23002" />
+<img width="922" height="472" alt="image" src="https://github.com/user-attachments/assets/d15c3d84-7d80-4968-92d7-317e69f6967c" />
 
 Where:
 
 ```text
 1 = positive feedback
 0 = negative feedback
-`<img width="928" height="377" alt="image" src="https://github.com/user-attachments/assets/466ec427-5f66-44a7-b5c7-f864d5ed0d63" />
-``
+```
 
 ### Reward
 
@@ -404,9 +405,11 @@ bandit
 rag
 agent
 response
-<img width="886" height="451" alt="image" src="https://github.com/user-attachments/assets/ebacf942-bc78-4912-b5dd-d51daa3d91b5" />
 
 ```
+<img width="940" height="390" alt="image" src="https://github.com/user-attachments/assets/3df0b10e-c152-4128-8c95-704e47bf4f16" />
+
+<img width="904" height="473" alt="image" src="https://github.com/user-attachments/assets/90259d73-ce50-4497-a7e3-a0904428395d" />
 
 Each stage maintains its status and output in SQLite.
 
