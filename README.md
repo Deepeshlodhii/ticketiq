@@ -984,9 +984,3 @@ The system is designed to improve its LLM configuration selection over time usin
 
 ```
 
-### After pasting
-
-Save `README.md`.
-
-**Don't run anything yet.** Just tell me when the README is saved, and we'll do the final API/E2E test and Git cleanup.
-```
